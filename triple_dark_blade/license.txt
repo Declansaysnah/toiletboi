@@ -1,0 +1,11 @@
+Model Information:
+* title:	Triple Dark Blade
+* source:	https://sketchfab.com/3d-models/triple-dark-blade-481dd938b46241e08bb1de3d130d5431
+* author:	korbenhall (https://sketchfab.com/korbenhall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Triple Dark Blade" (https://sketchfab.com/3d-models/triple-dark-blade-481dd938b46241e08bb1de3d130d5431) by korbenhall (https://sketchfab.com/korbenhall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
